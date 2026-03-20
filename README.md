@@ -1,2 +1,3 @@
-# advanced-data-visualizer-4yt8
+# Advanced Data Visualizer 4Yt8
+
 A repository to test GitHub automation for issue management.
